@@ -1,0 +1,35 @@
+html,
+body {
+    font-family: "Poppins", sans-serif !important;
+}
+
+.header-link {
+    font-size: 15px;
+    margin-left: 20px;
+    color: black !important;
+}
+
+.header-link:hover {
+    color: #34d796 !important;
+}
+
+.main-img {
+    padding-top: 8%;
+}
+
+.main-description {
+    font-size: 14px;
+}
+
+.btn-sz-primary {
+    font-size: 14px;
+    padding: 10px 25px;
+    border-radius: 50px;
+    color: white !important;
+    background-color: #34d796 !important;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
